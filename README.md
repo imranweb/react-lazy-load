@@ -1,1 +1,1 @@
-### React boilerplate with minimal configurations
+### React Lazy Load demo with minimal configuration and no extra plugins.
